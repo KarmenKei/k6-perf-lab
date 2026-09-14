@@ -19,7 +19,7 @@ Load test-ийн бай:
 - k6 version:
 
 ```text
-[энд k6 version командын бүтэн output-ийг оруул]
+[Ubuntu / macOS]
 ```
 
 - Operating system: `[Ubuntu / macOS / WSL2 гэх мэт]`
